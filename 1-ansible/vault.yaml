@@ -1,0 +1,5 @@
+#This file ansible-vault encrypted
+MYSQL_ROOT_PASS=Ansible vault encrypted
+MYSQL_USER=Ansible vault encrypted
+MYSQL_PASS=Ansible vault encrypted
+MYSQL_DATABASE=Ansible vault encrypted
